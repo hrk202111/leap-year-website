@@ -33,10 +33,10 @@ input{
 }
 footer{
     color:rgb(48, 85, 116);
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     font-weight: 600;
     box-shadow: 5px 5px 10px rgb(117, 115, 136);
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 10px;   
 }
